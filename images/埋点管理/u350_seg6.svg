@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" preserveAspectRatio="xMinYMid meet" viewBox="1225 978  18 16" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip22">
+      <path d="M 1199.661 598  L 1318.339 598  L 1318.339 648  L 1199.661 648  Z M 1137 338  L 1318.339 338  L 1318.339 996  L 1137 996  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <path d="M 1146.5 348  L 1146.5 352  A 5 5 0 0 0 1151.5 357.5 L 1254 357.5  A 5 5 0 0 1 1259.5 362.5 L 1259.5 949  A 5 5 0 0 1 1254.5 954.5 L 1239 954.5  A 5 5 0 0 0 1234.5 959.5 L 1234.5 986  " stroke-width="1" stroke-dasharray="3,1" stroke="#996600" fill="none" mask="url(#clip22)" />
+  <path d="M 1146.5 347  A 3 3 0 0 0 1143.5 350 A 3 3 0 0 0 1146.5 353 A 3 3 0 0 0 1149.5 350 A 3 3 0 0 0 1146.5 347 Z M 1239.14644660941 980.946446609407  L 1234.5 985.592893218813  L 1229.85355339059 980.946446609407  L 1229.14644660941 981.653553390593  L 1234.14644660941 986.653553390593  L 1234.5 987.007106781187  L 1234.85355339059 986.653553390593  L 1239.85355339059 981.653553390593  L 1239.14644660941 980.946446609407  Z " fill-rule="nonzero" fill="#996600" stroke="none" mask="url(#clip22)" />
+</svg>
